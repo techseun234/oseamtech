@@ -1,0 +1,373 @@
+*{margin:0px;padding:0px;}
+    .section-title{
+background-color:;
+text-align:center;
+height:auto;
+padding:20px;
+font-size:40px;
+color:#13011d;
+ }
+
+.utilityitems{display:inline-block;padding:5px;margin:5px;
+color:white;
+}
+.img{border:2px solid  #d2107b ;
+width:100px;display:inline-block;
+
+}
+.utilitybar{
+background-color:#13011d;
+border-color:Aquamarine;
+border-width:1px;
+border-style:solid;
+
+ }
+ .social{float:right;color:white;}
+  .social-link{color:white;text-decoration:none;
+  }
+  
+.banner{
+/*background-color:#13011d;*/
+color:white;text-align:center;
+height:350px;
+background-image:url('../images/banner.jpg');
+background-size:cover;
+ }
+ 
+ .cover{
+width:100%;
+height:100%;
+background:rgba(1,0,10,0.8) 
+ }
+
+ 
+ 
+.banner-welcometext{
+width:50%;color:white;text-align:center;
+padding:100px;font-size:40px;
+display:inline-block;
+
+ }  
+
+nav a{
+color:Aquamarine;   
+text-decoration:none;
+padding:11px 15px;
+margin-right:4px;    
+} 
+
+p a{
+color:Aquamarine;   
+text-decoration:none;
+padding:11px 15px;
+margin-right:4px;    
+}
+
+
+
+
+  .section-main{
+border-color:lightgray;
+border-width:0px;
+border-style:solid;
+margin:0px;
+padding:0px;
+  }
+  
+ .section-main-content{
+padding:50px;
+text-align:center;
+  }
+   .smc-center{
+width:100%;
+text-align:center;
+  }
+  
+   .section-main-content-left{
+padding:40px;
+display:inline-block;
+width:40%;
+background-color:#13011d;
+
+  }
+  
+    .section-main-content-right{
+padding:20px;
+display:inline-block;
+width:45%;
+text-align:left;
+
+  }
+      .about-section-main-content{
+padding:40px;
+display:inline-block;
+width:85%;
+text-align:left;
+
+  }
+  
+  
+  
+  
+  
+   .section-main-content-left,.section-main-content-right{
+padding:20px;
+display:inline-block;
+width:85%;
+  } 
+  
+  
+  
+  
+    .section-title{
+padding:10px;
+display:inline-block;
+width:80%;
+font-size:25px;
+color:SandyBrown;
+
+  }
+      .section-content{
+padding:5px;
+display:inline-block;
+width:90%;
+font-size:17px;
+color:;
+text-align:justify;
+line-height:30px;
+border:solid 1px lightgray;
+  }
+        .section-content:hover{
+background-color:#13011d;
+color:white;
+  }
+        .welcome-video{
+padding:5px;
+height:350px;
+display:inline-block;
+width:90%;
+text-align:center;
+
+  }
+    
+  /*SERVICE LISTING SECTION DEFINITIONS*/
+  
+    .service-listing{
+background-color:;
+text-align:center;
+height:auto;
+ }
+  
+/*SERVICES PAGE */
+  .services-service-listing{
+background-color:;
+text-align:center;
+height:auto;
+ } 
+  .main-service-listing{
+  padding:25px;  
+  border:solid lightgray 1px;
+  }
+
+  .main-service-listing-group{
+  padding:25px;  
+  text-align:center;  
+      
+      
+  }
+  .tocenter{margin-left:10%;}
+.service-listing{ padding:25px;}
+
+ 
+  .srvce-cover{
+      display:inline-block;
+width:100%;padding:2px;
+height:100%;
+background:rgba(1,0,10,0.8) 
+ }
+ 
+ 
+.service-content {
+    float:left;width:30%;
+    text-align:center;
+   margin:10px;
+    height:230px;
+    border:solid lightgray 1px;
+}
+
+.service-content-details {
+    float:left;width:60%;
+    text-align:center;
+   margin:10px;
+    height:230px;
+    border:solid lightgray 1px;
+}
+      .service-section-content{
+padding:5px;
+display:inline-block;
+width:95%;
+font-size:20px;
+color:;
+text-align:justify;
+line-height:30px;
+border:solid 1px lightgray;
+  }
+.service-content a{
+   width:70%;display:inline-block;
+   text-decoration:none;
+   color:aquamarine;
+text-align:center;padding:10px;
+border:solid aquamarine 1px;
+}
+
+.service-content a:hover{
+background:aquamarine;
+
+color:rgba(1,0,10,0.7) ;
+}
+
+.service-content-title {
+width:80%;display:inline-block;
+    text-align:center;
+    padding:10px;
+   color:white;
+font-size:24px;   
+}
+.service-content-body {
+width:80%;display:inline-block;
+    text-align:center;
+    padding:10px;
+  
+}
+.srv1{
+background-image:url('../images/services/s3.jpg');
+background-size:cover;
+ }
+.srv2{
+background-image:url('../images/services/s6.jpg');
+background-size:cover;
+ } 
+ .srv3{
+background-image:url('../images/services/s1.jpg');
+background-size:cover;
+ }
+
+ .srv4{
+background-image:url('../images/services/consult.jpg');
+background-size:cover;
+ }
+ .srv5{
+background-image:url('../images/services/s4.jpg');
+background-size:cover;
+ }
+
+ .srv6{
+background-image:url('../images/services/1.jpg');
+background-size:cover;
+ }
+ 
+ .service-content-clear-float{
+display:block;
+ clear:both;} 
+  /*FOOTER SECTION DEFINITIONS*/
+  .footer-section{
+background-color:#13011d;
+text-align:center;
+height:auto;
+ }
+ .footer-item{
+     color:white;
+     padding:20px;
+  display:inline-block;
+width:24%; height:300px;
+border-style:solid;
+border-width:1px;
+border-color:white; 
+float:left;
+ }
+ 
+  .footer-item-one{
+  
+     padding:20px;
+  display:inline-block;
+width:10%; height:300px;
+
+float:left;
+ }
+ .footer-item-header{
+     color:aquamarine;
+     margin:10px;
+  display:inline-block;
+width:60%;    
+     }
+.footer-item-content{
+    color:white;  margin:5px;
+      display:inline-block;
+width:80%;line-height:30px;
+  }
+.footer-item-content a{
+    color:white;text-decoration:none; 
+    margin:5px;
+    display:inline-block;
+    width:70%;
+  }
+.footer-item-content a:hover{
+    color:#13011d; 
+  background-color:white; 
+  }
+  
+@media screen and (max-width: 900px){
+  .service-content {
+   width:45%;
+   height:250px;
+    
+} 
+
+
+   .section-main-content-left,.section-main-content-right{
+padding:20px;
+display:inline-block;
+width:85%;
+  }
+  
+.footer-item{
+width:90%; 
+height:300px; 
+float:none;
+ }
+   .footer-item-one{
+padding:20px;
+width:80%; height:100px;
+float:;
+ }
+    
+}
+
+@media screen and (max-width: 600px){
+  .service-content {
+   width:80%;
+   height:280px;
+    
+} 
+
+   .section-main-content-left,.section-main-content-right{
+padding:20px;
+display:inline-block;
+width:85%;
+  }
+  
+.footer-item{
+width:90%; 
+height:300px; 
+float:none;
+ } 
+  
+   .footer-item-one{
+padding:20px;
+width:80%; height:100px;
+float:;
+ } 
+  
+  
+  
+}
